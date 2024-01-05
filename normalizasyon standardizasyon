@@ -1,0 +1,7 @@
+-Normalizasyon, verileri 0 ve 1 arasında yeniden ölçekler.
+Bu işlem tüm parametrelerin aynı pozitif ölçeğe sahip olması gereken bazı durumlarda yararlı olabilir. Ancak aykırı değerlerin (outliers) kaybolmasına yol açar.
+-Standardizasyon ise veriyi aynı ortalama (0) ve aynı standart sapmaya (1) sahip olması için yeniden ölçeklendirilmesidir.
+
+
+-normalizasyon özellikler arasındaki büyük ölçek farkları düzeltir
+-standardizasyon özelliklerin birbiri ile kıyaslanabilir bir ölçekte olmasını sağlar
